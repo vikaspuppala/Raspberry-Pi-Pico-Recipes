@@ -1,1 +1,11 @@
+site_name: raspberrypi-pico-recipes
+site_url: https://www.thinkcreatelearn.co.uk/resources/raspberrypi-pico-recipes
+theme:
+  name: material
+  features:
+    - navigation.tabs  # Enables the tabbed navigation style for the site
+  palette:
+    primary: custom # Sets the primary color of the site to a custom color defined in the extra.css file
+    accent: custom # Sets the accent color of the site to a custom color defined in the extra.css file
+    
 
