@@ -45,18 +45,18 @@ Explore different sensors and input devices that allow the Raspberry Pi Pico to 
 
 Learn how to display information and control visual output devices.
 
-- [NeoPixels](neopixels)
-- [LCD Display](lcd-display)
-- [Numeric Display](numeric-display)
+- [NeoPixels](../docs/Other-Outputs(CircuitPython)/neopixels)
+- [LCD Display](../docs/Other-Outputs(CircuitPython)/lcd-display)
+- [Numeric Display](../docs/Other-Outputs(CircuitPython)/numeric-display)
 
 ## Motors with the Kitronik Robotics Board (CircuitPython)
 
 Explore motor control using the Kitronik Robotics Board with CircuitPython.
 
-- [Kitronik Robotics Board](kitronik-robotics-board)
-- [Kitronik DC Motor](kitronik-dc-motor)
-- [Kitronik Servo Motor](kitronik-servo-motor)
-- [Kitronik Stepper Motor](kitronik-stepper-motor)
+- [Kitronik Robotics Board](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-robotics-board)
+- [Kitronik DC Motor](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-dc-motor)
+- [Kitronik Servo Motor](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-servo-motor)
+- [Kitronik Stepper Motor](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-stepper-motor)
 
 ## Other Motor Recipes (CircuitPython)
 
