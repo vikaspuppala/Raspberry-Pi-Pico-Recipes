@@ -7,5 +7,6 @@ theme:
   palette:
     primary: custom # Sets the primary color of the site to a custom color defined in the extra.css file
     accent: custom # Sets the accent color of the site to a custom color defined in the extra.css file
-    
+
+   
 
