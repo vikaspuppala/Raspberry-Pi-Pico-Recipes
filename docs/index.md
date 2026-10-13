@@ -9,37 +9,37 @@ These guides provide concise explanations of how to do a variety of things with 
 
 Learn how to get started with CircuitPython on the Raspberry Pi Pico and configure your development environment.
 
-![CircuitPython](circuitpython)
-![Thonny with CircuitPython](thonny-circuitpython)
+- [CircuitPython](../docs/Getting-Started(CircuitPython)/circuitpython)
+- [Thonny with CircuitPython](../docs/Getting-Started(CircuitPython)/thonny-circuitpython)
 
 ## Getting Started (MicroPython)
 
 Learn how to install and use MicroPython and set up Thonny for programming your Raspberry Pi Pico.
 
-- [MicroPython](micropython)
-- [Thonny with MicroPython](thonny-micropython)
+- [MicroPython](../docs/Getting-Started(Micropython)/micropython)
+- [Thonny with MicroPython](../docs/Getting-Started(Micropython)/thonny-micropython)
 
 ## Basic Operations (CircuitPython)
 
 Learn how to control LEDs, read button inputs, and work with analogue inputs and outputs.
 
-- [Digital Output – LED](digital-output-led)
-- [Digital Input – Button](digital-input-button)
-- [Analogue Input – Potentiometer](analogue-input-potentiometer)
-- [Analogue Output – LED](analogue-output-led)
+- [Digital Output With LEDs](../docs/Basic-Operations(CircuitPython)/digital-output-led)
+- [Digital Input With Button](../docs/Basic-Operations(CircuitPython)/digital-input-button)
+- [Analogue Input With Potentiometer](../docs/Basic-Operations(CircuitPython)/analogue-input-potentiometer)
+- [Analogue Output With LEDs](../docs/Basic-Operations(CircuitPython)/analogue-output-led)
 
 ## Other Inputs (CircuitPython)
 
 Explore different sensors and input devices that allow the Raspberry Pi Pico to respond to its environment.
 
-- [Photocell](photocell)
-- [Weather Sensor](weather-sensor)
-- [PIR Motion Sensor](pir)
-- [Ultrasonic Sensor](ultrasonic)
-- [Break-Beam Sensor](break-beam-sensor)
-- [Other Switches](other-switches)
-- [XY Joystick](joystick-xy)
-- [5-Way Navigation Switch](5-way-nav-switch)
+- [Photocell](../docs/Other-Inputs(CircuitPython)/photocell)
+- [Weather Sensor](../docs/Other-Inputs(CircuitPython)/weather-sensor)
+- [PIR (Passive Infrared)](../docs/Other-Inputs(CircuitPython)/pir)
+- [Ultrasonic Sensor](../docs/Other-Inputs(CircuitPython)/ultrasonic)
+- [Break Beam Sensor](../docs/Other-Inputs(CircuitPython)/break-beam-sensor)
+- [Other Switches](../docs/Other-Inputs(CircuitPython)/other-switches)
+- [XY Joystick With Button](../docs/Other-Inputs(CircuitPython)/joystick-xy)
+- [5-Way Navigation Switch](../docs/Other-Inputs(CircuitPython)/5-way-nav-switch)
 
 ## Other Outputs (CircuitPython)
 
