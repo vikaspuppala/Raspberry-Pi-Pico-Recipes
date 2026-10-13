@@ -8,5 +8,26 @@ theme:
     primary: custom # Sets the primary color of the site to a custom color defined in the extra.css file
     accent: custom # Sets the accent color of the site to a custom color defined in the extra.css file
 
-   
-
+# Site navigation structure
+nav:
+  - Home: introduction.md
+  - Getting-Started(CircuitPython):
+     - circuitpython: Getting-Started(CircuitPython)/circuitpython/index.md
+     - Thonny-circuitpython: Getting-Started(CircuitPython)/thonny-circuitpython/index.md
+  - Getting-Started(MicroPython):
+     - micropython: Getting-Started(Micropython)/micropython/index.md
+     - Thonny-micropython: Getting-Started(Micropython)/thonny-micropython/index.md
+  - Basic-Operations(CircuitPython):
+     - Digital Output With LEDs: Basic-Operations(CircuitPython)/digital-output-led/index.md
+     - Digital Input With Buttons: Basic-Operations(CircuitPython)/digital-input-button/index.md
+     - Analogue Input With Potentiometer: Basic-Operations(CircuitPython)/analogue-input-potentiometer/index.md
+     - Analouge Output With LEDs: Basic-Operations(CircuitPython)/analogue-output-led/index.md
+  - Other Inputs (CircuitPython):
+     - Photocell: Other-Inputs(CircuitPython)/photocell/index.md
+     - Weather Sensor: Other-Inputs(CircuitPython)/weather-sensor/index.md
+     - PIR(Passive Infrared): Other-Inputs(CircuitPython)/pir/index.md
+     - Ultrasonic: Other-Inputs(CircuitPython)/ultrasonic/index.md
+     - Break Beam Sensor: Other-Inputs(CircuitPython)/break-beam-sensor/index.md
+     - Other Switches: Other-Inputs(CircuitPython)/other-switches/index.md
+     - XY Joystick With Button: Other-Inputs(CircuitPython)/joystick-xy/index.md
+     - 5 Way Navigation Switch: Other-Inputs(CircuitPython)/5-way-nav-switch/index.md
