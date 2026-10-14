@@ -34,7 +34,7 @@ nav:
   - Other Outputs (CircuitPython):
      - Neopixels: Other-Outputs(CircuitPython)/neopixels/index.md
      - LCD Display: Other-Outputs(CircuitPython)/lcd-display/index.md
-     - Numeric Display: Other-Outputs(CircuitPython)/numeric display/index.md
+     - Numeric Display: Other-Outputs(CircuitPython)/numeric-display/index.md
   - Motors With The Kitronik Robotics Board (CircuitPython):
      - Kitronik Robotics Board: Motors-With-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-robotics-board/index.md
      - DC Motors With The Kitronik Board: Motors-With-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-dc-motor/index.md

@@ -53,10 +53,10 @@ Learn how to display information and control visual output devices.
 
 Explore motor control using the Kitronik Robotics Board with CircuitPython.
 
-- [Kitronik Robotics Board](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-robotics-board)
-- [Kitronik DC Motor](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-dc-motor)
-- [Kitronik Servo Motor](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-servo-motor)
-- [Kitronik Stepper Motor](../docs/Motors-with-the-Kitronik-Robotics-Board(CircuitPython)/kitronik-stepper-motor)
+- [Kitronik Robotics Board](../docs/Motors-with-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-robotics-board)
+- [Kitronik DC Motor](../docs/Motors-with-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-dc-motor)
+- [Kitronik Servo Motor](../docs/Motors-with-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-servo-motor)
+- [Kitronik Stepper Motor](../docs/Motors-with-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-stepper-motor)
 
 ## Other Motor Recipes (CircuitPython)
 
