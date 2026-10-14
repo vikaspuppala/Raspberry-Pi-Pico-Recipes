@@ -40,3 +40,11 @@ nav:
      - DC Motors With The Kitronik Board: Motors-With-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-dc-motor/index.md
      - Servo Motors With The Kitronik Board: Motors-With-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-servo-motor/index.md
      - Stepper Motors With The Kitronik Board: Motors-With-The-Kitronik-Robotics-Board(CircuitPython)/kitronik-stepper-motor/index.md
+  - Other-Motor-Recipes(CircuitPython):
+     - Hobby Stepper (28BYJ-48): Other-Motor-Recipes(CircuitPython)/hobby-stepper/index.md
+  - Networking(CircuitPython):
+     - Connect To WiFi: Networking(CircuitPython)/connect-to-wifi/index.md
+     - IoT With Adafruit: Networking(CircuitPython)/iot-with-adafruit/index.md
+     - IoT With ThingSpeak: Networking(CircuitPython)/iot-with-thingspeak/index.md
+     - WiFi Access Point: Networking(CircuitPython)/wifi-access-point/index.md
+     - Send Messages With UDP: Networking(CircuitPython)/messages-with-udp/index.md

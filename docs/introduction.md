@@ -62,17 +62,17 @@ Explore motor control using the Kitronik Robotics Board with CircuitPython.
 
 Learn how to control additional motors with your Raspberry Pi Pico.
 
-- [Hobby Stepper Motor](hobby-stepper-motor)
+- [Hobby Stepper (28BYJ-48)](../docs/Other-Motor-Recipes(CircuitPython)/hobby-stepper)
 
 ## Networking (CircuitPython)
 
 Explore wireless networking, cloud services, and communication between devices using CircuitPython.
 
-- [Connect to Wi-Fi](connect-to-wifi)
-- [IoT with Adafruit IO](iot-adafruit-io)
-- [IoT with ThingSpeak](iot-thingspeak)
-- [Wireless Access Point](wireless-access-point)
-- [Messages with UDP](messages-with-udp)
+- [Connect to WiFi](../docs/Networking(CircuitPython)/connect-to-wifi)
+- [IoT with Adafruit](../docs/Networking(CircuitPython)/iot-with-adafruit)
+- [IoT with ThingSpeak](../docs/Networking(CircuitPython)/iot-with-thingspeak)
+- [WiFi Access Point](../docs/Networking(CircuitPython)/wifi-access-point)
+- [Send Messages with UDP](../docs/Networking(CircuitPython)/messages-with-udp)
 
 ## Displays (CircuitPython)
 
