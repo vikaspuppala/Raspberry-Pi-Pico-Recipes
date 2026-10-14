@@ -48,3 +48,11 @@ nav:
      - IoT With ThingSpeak: Networking(CircuitPython)/iot-with-thingspeak/index.md
      - WiFi Access Point: Networking(CircuitPython)/wifi-access-point/index.md
      - Send Messages With UDP: Networking(CircuitPython)/messages-with-udp/index.md
+  - Displays(CircuitPython):
+     - Adafruit 1.44in TFT Display: Displays(CircuitPython)/display-tft-144/index.md
+     - Adafruit 2.2in TFT Display: Displays(CircuitPython)/display-tft-22/index.md
+     - Waveshare 64x64 Display: Displays(CircuitPython)/waveshare_64x64_display/index.md
+  - Displays(MicroPython):
+     - Pimoroni Inky Frame: Displays(MicroPython)/pimoroni-inky-frame/index.md
+     - Waveshare LCD 1.8: Displays(MicroPython)/waveshare-pico-lcd-1.8/index.md
+     - Waveshare LCD 3.5: Displays(MicroPython)/waveshare-pico-lcd-3.5/index.md

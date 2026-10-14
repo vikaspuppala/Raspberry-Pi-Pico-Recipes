@@ -78,14 +78,14 @@ Explore wireless networking, cloud services, and communication between devices u
 
 Explore different displays that can be connected to your Raspberry Pi Pico.
 
-- [TFT 1.44-inch Display](display-tft-144)
-- [TFT 2.2-inch Display](display-tft-22)
-- [Waveshare 64 × 64 Display](waveshare_64x64_display)
+- [Adafruit 1.44in TFT Display](../docs/Displays(CircuitPython)/display-tft-144)
+- [Adafruit 2.2in TFT Display](../docs/Displays(CircuitPython)/display-tft-22)
+- [Waveshare 64x64 Display](../docs/Displays(CircuitPython)/waveshare_64x64_display)
 
 ## Displays (MicroPython)
 
 Explore display projects using MicroPython and compatible display modules.
 
-- [Pimoroni Inky Frame](pimoroni-inky-frame)
-- [Waveshare Pico LCD 1.8-inch](waveshare-pico-lcd-1.8)
-- [Waveshare Pico LCD 3.5-inch](waveshare-pico-lcd-3.5)
+- [Pimoroni Inky Frame](../docs/Displays(MicroPython)/pimoroni-inky-frame)
+- [Waveshare LCD 1.8](../docs/Displays(MicroPython)/waveshare-pico-lcd-1.8)
+- [Waveshare LCD 3.5](../docs/Displays(MicroPython)/waveshare-pico-lcd-3.5)
